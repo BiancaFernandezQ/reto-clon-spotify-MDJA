@@ -7,4 +7,5 @@ Se usaron tecnologias/herramientas aprendidas en esta primera seccion como ser:
 - GIT
 - GitHub
 
-En unas semanas estara responsive usando Boostrap.
+En unas semanas estara responsive usando  Bootstrap.
+💻📖
